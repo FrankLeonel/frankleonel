@@ -13,7 +13,7 @@
 📝 Interest in learning: **Node Js, Express, TypeScript, UX, UI**.
 
 📱 Contact: 
-[![Instagram Badge]("https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/frankleonel11/")](https://www.instagram.com/frankleonel11/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/frankleonel11/">](https://www.instagram.com/frankleonel11/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frankleonel/)](https://www.linkedin.com/in/frankleonel/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franksleonel@gmail.com)](mailto:franksleonel@gmail.com)
 
