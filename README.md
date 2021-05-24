@@ -1,4 +1,4 @@
-### 👋 Hi, my name is Frank, i'm **Front-End** developer, with greater interest in mobile applications, however always in search for news challenges. I'm avaible for conversations and works, if you need, stay free to contact me 📫.
+#### 👋 Hi, my name is Frank, i'm **Front-End** developer, with greater interest in mobile applications, however always in search for news challenges. I'm avaible for conversations and works, if you need, stay free to contact me 📫.
 
 💬 Skills:
 👩‍💻 Technologies: **HTML, CSS, Java, Scala, Dart, JavaScript and SQL**.
@@ -13,13 +13,9 @@
 📝 Interest in learning: **Node Js, Express, TypeScript, UX, UI**.
 
 📱 Contact: 
-<p align="left">
-  <a href="https://www.instagram.com/frankleonel11/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/frankleonel11/"/></a>
-  
-  <a href="https://www.linkedin.com/in/frankleonel/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frankleonel/"/></a>
-</p>
+[![Instagram Badge]("https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/frankleonel11/")](https://www.instagram.com/frankleonel11/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frankleonel/)](https://www.linkedin.com/in/frankleonel/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franksleonel@gmail.com)](mailto:franksleonel@gmail.com)
 
 
 <!--
