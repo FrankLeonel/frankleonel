@@ -13,7 +13,7 @@
 📝 Interest in learning: **Node Js, Express, TypeScript, UX, UI**.
 
 📱 Contact: 
-<div style = "width: 60%; height: 100px; justify-content: space-evenly">
+<div style = "display: flex; flex-direction: row; justify-content: space-between;">
   [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/frankleonel11/">](https://www.instagram.com/frankleonel11/)
 
   [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/frank.leonel.18/">](https://www.facebook.com/frank.leonel.18/)
