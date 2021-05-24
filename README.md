@@ -13,6 +13,14 @@
 📝 Interest in learning: **Node Js, Express, TypeScript, UX, UI**.
 
 📱 Contact: 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/frankleonel11/)](https://www.instagram.com/frankleonel11/)
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/frank.leonel.18/)](https://www.facebook.com/frank.leonel.18/)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/frankleonel/)](https://www.linkedin.com/in/frankleonel/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franksleonel@gmail.com)](mailto:franksleonel@gmail.com)
+  
   [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/frankleonel11/">](https://www.instagram.com/frankleonel11/)
 
   [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/frank.leonel.18/">](https://www.facebook.com/frank.leonel.18/)
@@ -20,9 +28,6 @@
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/frankleonel/" />](https://www.linkedin.com/in/frankleonel/)
 
   [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franksleonel@gmail.com" />](mailto:franksleonel@gmail.com)
-
-
-<!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franksleonel@gmail.com)]() -->
 
 
 <!--
