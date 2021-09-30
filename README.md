@@ -2,9 +2,9 @@
 
 💬 Skills:
 
-👩‍💻 Technologies: **HTML, CSS, Java, Scala, Dart, JavaScript and SQL**.
+👩‍💻 Technologies: **HTML, CSS, Java, Scala, C, Dart, JavaScript and Typescript**.
 
-🚀 Frameworks: **Vue.Js, ReactJs and Bootstrap**.
+🚀 Frameworks: **ReactJs and Bootstrap**.
 
 📱 Mobile: **Nativo(Java), React Native and Flutter**.
 
@@ -14,9 +14,9 @@
 
 🤜🤛 Agile Methodologies: **SCRUM and KanBan**.
 
-📝 Learning: **Next.js**.
+<!-- 📝 Learning: **Next.js**. -->
 
-📝 Interest in learning: **Node Js, Express, TypeScript, UX, UI**.
+📝 Interest in learning: **NodeJs, Express, UX, UI**.
 
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/frankleonel11/)](https://www.instagram.com/frankleonel11/)
