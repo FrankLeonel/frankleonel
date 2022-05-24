@@ -1,6 +1,6 @@
 <h2 align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2> 
 
-<h3 align="center"> My name is Frank Leonel, I'm a <b>Front-End developer</b>. If you need, feel free to contact me 📫. <h4>
+<h3 align="center"> My name is Frank Leonel, I'm a <strong>Front-End developer</strong>. If you need, feel free to contact me 📫. <h4>
 
 💬 Skills:
 
@@ -36,6 +36,9 @@
 
   [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franksleonel@gmail.com" />](mailto:franksleonel@gmail.com) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankLeonel&include_all_commits=true"&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <div> 
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankLeonel&include_all_commits=true"&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankLeonel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+
