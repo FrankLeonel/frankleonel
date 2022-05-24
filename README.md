@@ -8,7 +8,7 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franksleonel@gmail.com)](mailto:franksleonel@gmail.com)
     
  <h2> 🚀👨‍💻 Tech and Tools preference: </h2>
-    [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=style=flat-square&logo=html5&logoColor=white)]
+  ![HTML5 Badge]({[BadgeURLHere](https://img.shields.io/badge/HTML5-E34F26?style=style=flat-square&logo=html5&logoColor=white)})
   <p float="left"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
