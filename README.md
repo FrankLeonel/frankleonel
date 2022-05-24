@@ -1,6 +1,12 @@
 <h2 align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2> 
 
-<h3 align="center"> My name is Frank Leonel, I'm a <strong>Front-End developer</strong>. If you need, feel free to contact me 📫. <h4>
+<h3> My name is Frank Leonel, I'm a <strong>Front-End developer</strong>. If you need, feel free to contact me 📫. <h3>
+  
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/frankleonel11/)](https://www.instagram.com/frankleonel11/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/frank.leonel.18/)](https://www.facebook.com/frank.leonel.18/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frankleonel/)](https://www.linkedin.com/in/frankleonel/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franksleonel@gmail.com)](mailto:franksleonel@gmail.com)
+ ![GitHub Views](https://komarev.com/ghpvc/?username=FrankLeonel)
 
 💬 Skills:
 
@@ -20,13 +26,6 @@
 
 <!--📝 Interest in learning: **NodeJs, Express, UX, UI**. -->
 
-![GitHub Views](https://komarev.com/ghpvc/?username=FrankLeonel)
-
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/frankleonel11/)](https://www.instagram.com/frankleonel11/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/frank.leonel.18/)](https://www.facebook.com/frank.leonel.18/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frankleonel/)](https://www.linkedin.com/in/frankleonel/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franksleonel@gmail.com)](mailto:franksleonel@gmail.com)
   
 <!--   [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/frankleonel11/">](https://www.instagram.com/frankleonel11/)
 
