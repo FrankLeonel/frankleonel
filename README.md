@@ -35,7 +35,13 @@
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/frankleonel/" />](https://www.linkedin.com/in/frankleonel/)
 
   [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franksleonel@gmail.com" />](mailto:franksleonel@gmail.com) -->
+  
+  <p float="middle"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=FrankLeonel&include_all_commits=true"&count_private=true&show_icons=true&theme=radical" />
+    <img src="[https://github-readme-stats.vercel.app/api?username=FrankLeonel&include_all_commits=true"&count_private=true&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankLeonel&layout=compact)" />
+  </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankLeonel&include_all_commits=true"&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankLeonel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankLeonel&include_all_commits=true"&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankLeonel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 
