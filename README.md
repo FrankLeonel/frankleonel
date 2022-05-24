@@ -1,4 +1,6 @@
-#### 👋 Hi, my name is Frank Leonel, I'm a **Front-End** developer, I'm always looking for new challenges. If you need, feel free to contact me 📫.
+<h2 align="center"> 👋 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2> 
+<hr />
+#### My name is Frank Leonel, I'm a **Front-End** developer, I'm always looking for new challenges. If you need, feel free to contact me 📫.
 
 💬 Skills:
 
