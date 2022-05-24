@@ -18,6 +18,8 @@
 
 <!--📝 Interest in learning: **NodeJs, Express, UX, UI**. -->
 
+![GitHub Views](https://komarev.com/ghpvc/?username=FrankLeonel)
+
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/frankleonel11/)](https://www.instagram.com/frankleonel11/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/frank.leonel.18/)](https://www.facebook.com/frank.leonel.18/)
