@@ -1,6 +1,6 @@
 <h2 align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2> 
 
-<h4 align="center"> My name is Frank Leonel, I'm a **Front-End** developer, I'm always looking for new challenges. If you need, feel free to contact me 📫. <h4>
+<h3 align="center"> My name is Frank Leonel, I'm a <b>Front-End developer</b>. If you need, feel free to contact me 📫. <h4>
 
 💬 Skills:
 
