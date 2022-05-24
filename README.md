@@ -8,7 +8,6 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franksleonel@gmail.com)](mailto:franksleonel@gmail.com)
     
  <h2> 🚀👨‍💻 Tech and Tools preference: </h2>
-  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   <p float="left"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -26,7 +25,7 @@
   </p>
  
   
- <h4>🚀📱💻 Other skills</h4>
+ <h3>🚀📱💻 Other skills</h3>
   <p float="left">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -39,9 +38,8 @@
   </p>
   
 ---
-  ![GitHub Views](https://komarev.com/ghpvc/?username=FrankLeonel)
-
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankLeonel&include_all_commits=true"&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankLeonel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub Views](https://komarev.com/ghpvc/?username=FrankLeonel)
   
 
