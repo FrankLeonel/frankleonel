@@ -34,4 +34,4 @@
 
   [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franksleonel@gmail.com" />](mailto:franksleonel@gmail.com) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankLeonel&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankLeonel&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
